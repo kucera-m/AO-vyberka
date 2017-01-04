@@ -14,9 +14,21 @@ Administrativní podpora s působností pro celou Českou republiku bude odpově
 Potřeba záměru
 --------------
 
-Záměr navrhl vedoucí administrativního odboru. Svého asistenta pro administrativu již má krajské sdružení Praha (jednak krajského manažera a jednak v zastupitelském klubu), pozice se v Praze osvědčila – tyto zkušenosti je třeba přenést na celostátní úroveň zejména v souvislosti s  volbami a fungováním celostátních orgánů. Klíčem pro úspěch ve volbách je mimo jiné bezproblémová a rychlá administrativa. Velkou pozornost je však třeba věnovat tomu, aby nedocházelo k samoúčelnému bujení byrokracie, na což bude dohlížet republikové předsednictvo. Úkolem asistenta pro administrativu bude, aby ostatní pocítili nutnou byrokracii co nejméně nebo o ní nejlépe vůbec nevěděli. Předpokládá se, že část čínností (viz [inzerát](readme.md)) bude do budoucna zautomatizováno, pak dojde k přehodnocení pracovních povinností, eventuálně přehodnocení potřeby pracovní pozice. Na druhou stranu v důsledku voleb a nárůstu agendy, pokud se strana dostane do sněmovny, může dojít i rozšíření rozsahu činnosti.
+Záměr navrhl vedoucí administrativního odboru. Svého asistenta pro administrativu již má krajské sdružení Praha (jednak krajského manažera a jednak v zastupitelském klubu), pozice se v Praze osvědčila – tyto zkušenosti je třeba přenést na celostátní úroveň zejména v souvislosti s  volbami a fungováním celostátních orgánů. 
+
+Klíčem pro úspěch ve volbách je mimo jiné bezproblémová a rychlá administrativa.  
  
-Dne 12. 9. 2016 uzavřelo republikové předsednictvo smlouvu s asistententem pro administrativu (který měl být k dispozici republikovému předsednictvu, republikovému výboru a administrativnímu odboru). Avšak dosavadní činnost odváděná pro administrativní odbor je velmi malá. Asistent bude sloužit zejména administrativnímu odboru (okrskové volební komise, sledování termínů, kontrola retence členů, pomoc při správě technických systému v gesci administrativního odboru, pomoc s administrativou oblastních sdružení). Jelikož dochází k ukončení pozice krajského manažera v Praze, který měl na starosti i fyzický archiv apod., přejde pod něj též část činností tohoto manažera. Bude financován z příslušné rozpočtové položky administrativního odboru. Předpokládaný rozsah práce je 20 hodin týdně s možností rozšíření dohodou až na 40 hodin týdně, skutečná poptávka se od tohoto rozsahu může lišit. Podmínky výběrového řízení budou vycházet z výběrového řízení na asistenta pro adminstrativu a provede jej vedoucí administrativního odboru. Vedoucí administrativního odboru navrhuje složení výběrové komise Martin Kučera, Vojtěch Pikal, Alex Mansurov, Bára Hrůzová.
+Dne 12. 9. 2016 uzavřelo republikové předsednictvo smlouvu s asistententem pro administrativu (který měl být k dispozici republikovému předsednictvu, republikovému výboru a administrativnímu odboru). Avšak dosavadní činnost odváděná pro administrativní odbor je velmi malá a zejména se očekává, že daná osoba nebude schopna vykonávat tuto pozici z důvodu těhotenství a je třeba mít za ni zástupce. 
+
+Administrativní podpora bude sloužit zejména administrativnímu odboru (okrskové volební komise, sledování termínů, kontrola retence členů, pomoc při správě technických systému v gesci administrativního odboru, pomoc s administrativou oblastních sdružení), případně jako záskok republikovému předsednictvu. 
+
+Jelikož dochází k ukončení pozice krajského manažera v Praze, který měl na starosti i fyzický archiv apod., přejde pod něj též část činností tohoto manažera. Bude financován z příslušné rozpočtové položky administrativního odboru. 
+
+Předpokládaný rozsah práce je 20 hodin týdně s možností rozšíření dohodou až na 40 hodin týdně, skutečná poptávka se od tohoto rozsahu může lišit. Předpokládá se, že část čínností (viz [inzerát](readme.md)) bude do budoucna zautomatizováno, pak dojde k přehodnocení pracovních povinností, eventuálně přehodnocení potřeby pracovní pozice. Na druhou stranu v důsledku voleb a nárůstu agendy, pokud se strana dostane do sněmovny či dále porostee, může dojít i rozšíření rozsahu činnosti až na plné vytížení jednoho člověka.
+
+Velkou pozornost je však třeba věnovat tomu, aby nedocházelo k samoúčelnému bujení byrokracie, vyloučení dobrovolníků, neprofesionální interní komunikaci a vytváření závislosti na jednom člověku, na což bude dohlížet republikové předsednictvo. Úkolem asistenta pro administrativu bude, aby ostatní pocítili nutnou byrokracii co nejméně nebo o ní nejlépe vůbec nevěděli a naplno se mohli věnovat politice jako hlavnímu poslání Pirátů.
+
+Podmínky výběrového řízení vychází z výběrového řízení na asistenta pro adminstrativu a provede je vedoucí administrativního odboru. 
 
 Rozpočet projektu
 -----------------
