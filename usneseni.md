@@ -99,7 +99,7 @@ Výběrové řízení se bude řídit následujícími dokumenty, které jsou p�
 * [Inzerát na administrativní podporu](readme.md)
 * [Pravidla výběrového řízení](pravidla.md)
 
-Smlouva bude uzavřena prostřednictvím zadávacího listu podle [podmínek pro placené úkoly][podminky], přičemž smluvní typ bude určen podle požadavku vybraného uchazeče.
+Smlouva bude uzavřena prostřednictvím zadávacího listu podle [podmínek pro placené úkoly][podminky], přičemž smluvní typ bude určen podle požadavku vybraného uchazeče. Název pozice může být upraven po dohodě s republikovým předsednictvem.
 
 [podminky]: https://github.com/pirati-cz/sablony/blob/4b07ba675434ee634c527909d537122264cc712e/ukoly/podminky/podminky.md
 
