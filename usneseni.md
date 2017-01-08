@@ -6,7 +6,7 @@ Záměr najmout celostátní administrativní podporu
 Shrnutí
 -------
 
-V rámci zlepšení fungování administrativního zázemí, zejména v  administrativním odboru a pomocně ve všech ostatních odborech a republikovém výboru a jako zástup v republikovém předsednictvu navrhujeme provést výběrové řízení na **celostátní administrativní podporu** a podepsat s vybraným uchazečem smlouvu na poloviční úvazek. Maximální odměna bude činit 14615 Kč měsíčně s možností rozšíření v době voleb a v případě spokojenosti.
+V rámci zlepšení fungování administrativního zázemí, zejména v  administrativním odboru a pomocně ve všech ostatních odborech a republikovém výboru a jako zástup v republikovém předsednictvu navrhujeme provést výběrové řízení na **celostátní administrativní podporu** a podepsat s vybraným uchazečem smlouvu na poloviční úvazek. Maximální odměna bude činit 14 615 Kč měsíčně s možností rozšíření v době voleb a v případě spokojenosti.
 
 Administrativní podpora s působností pro celou Českou republiku bude odpovědná vedoucímu administrativního odboru, který zajišťuje administrativní agendu strany.
 
